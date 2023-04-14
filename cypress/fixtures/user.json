@@ -1,0 +1,10 @@
+{
+  "name": "Gabriel Batista",
+  "email": "gabriel@ticto.com",
+  "password": "12345678",
+  "newName": "Gabriel Contreras",
+  "newEmail": "ticto@gabriel.com",
+
+  "passwordInvalido": "1234567",
+  "nameInvalido": "123"
+}

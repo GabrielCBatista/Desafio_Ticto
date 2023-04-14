@@ -1,0 +1,25 @@
+{
+  "name": "desafio_ticto",
+  "version": "1.0.0",
+  "description": "Desafio de Teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GabrielCBatista/Desafio_Ticto.git"
+  },
+  "keywords": [
+    "testes"
+  ],
+  "author": "Gabriel Batista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielCBatista/Desafio_Ticto/issues"
+  },
+  "homepage": "https://github.com/GabrielCBatista/Desafio_Ticto#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
